@@ -1,0 +1,3 @@
+# XSimpleWebServer
+Simple web server ,it can dispatch static resources.
+………………
